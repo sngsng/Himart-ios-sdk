@@ -1,0 +1,6 @@
+framework module HimartCameraiOSSDK {
+  umbrella header "HimartCameraiOSSDK-umbrella.h"
+
+  export *
+  module * { export * }
+}

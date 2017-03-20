@@ -1,0 +1,6 @@
+framework module Pods_HimartCameraiOSSDK_Example {
+  umbrella header "Pods-HimartCameraiOSSDK_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}

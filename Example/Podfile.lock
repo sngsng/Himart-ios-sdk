@@ -1,0 +1,16 @@
+PODS:
+  - HimartCameraiOSSDK (0.1.0)
+
+DEPENDENCIES:
+  - HimartCameraiOSSDK (from `../`)
+
+EXTERNAL SOURCES:
+  HimartCameraiOSSDK:
+    :path: ../
+
+SPEC CHECKSUMS:
+  HimartCameraiOSSDK: 75c3ecac8e5c4848f40b1596ede790142697e5ad
+
+PODFILE CHECKSUM: d15e0cfa9992fdc660f82bee5715cae57675bf07
+
+COCOAPODS: 1.2.0

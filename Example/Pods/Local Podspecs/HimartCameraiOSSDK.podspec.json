@@ -1,0 +1,22 @@
+{
+  "name": "HimartCameraiOSSDK",
+  "version": "0.1.0",
+  "summary": "A short description of HimartCameraiOSSDK.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/sngsng/HimartCameraiOSSDK",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "sngsng": "sngsng@slogup.com"
+  },
+  "source": {
+    "git": "https://github.com/sngsng/HimartCameraiOSSDK.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "HimartCameraiOSSDK/Classes/**/*"
+}

@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'HimartCameraiOSSDK_Example' do
+  pod 'HimartCameraiOSSDK', :path => '../'
+
+  target 'HimartCameraiOSSDK_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
