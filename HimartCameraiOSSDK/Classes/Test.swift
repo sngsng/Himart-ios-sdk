@@ -8,7 +8,7 @@
 
 import Foundation
 
-class Test {
+public class Test {
     
     class func log(msg:String) {
         

@@ -9,14 +9,14 @@
 /* Begin PBXBuildFile section */
 		0C14C61B099F596BA4C496E9E0E77962 /* Pods-HimartCameraiOSSDK_Tests-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = F403F6096311F0FEB91694AE2500F077 /* Pods-HimartCameraiOSSDK_Tests-dummy.m */; };
 		5D3F3DAFB7242BF9D14465F4C04EC3D9 /* HimartCameraiOSSDK-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = B2E31C0640D9BB4983ED194E6B3B9E65 /* HimartCameraiOSSDK-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		746424A0D2D2947617EFA6A73849DB9B /* HimartCameraiOSSDK-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 4036DD23F03FC121C1621716C576CF51 /* HimartCameraiOSSDK-dummy.m */; };
 		7CDB849E09AF346B994C7A019F460F85 /* Pods-HimartCameraiOSSDK_Example-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 0853731D1F9D668F6573F3ED3600203C /* Pods-HimartCameraiOSSDK_Example-dummy.m */; };
 		7F15CB875DC67B02F07D00BF202E2C49 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = CBB3DE36805AF21409EC968A9691732F /* Foundation.framework */; };
+		8A1E62055CAE6D19C54E2068C1A9B06F /* Test.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3438BAA899D27B08DF2ADCF6920947C9 /* Test.swift */; };
 		9F29EE5065EBF54940FD0677FA7B4E3C /* Pods-HimartCameraiOSSDK_Tests-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = FDC5A49A45858B0CB9BA6C29F09B48CD /* Pods-HimartCameraiOSSDK_Tests-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		A041DB421E7F7F4F00679C20 /* Test.swift in Sources */ = {isa = PBXBuildFile; fileRef = A041DB411E7F7F4F00679C20 /* Test.swift */; };
 		B5B232D8A2A6754818C0D196F6ADCF1D /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = CBB3DE36805AF21409EC968A9691732F /* Foundation.framework */; };
 		BAE2FE7F71EDEE8FA14E090195F566BB /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = CBB3DE36805AF21409EC968A9691732F /* Foundation.framework */; };
 		D320A1DE708992ACA88CFD23170C24E5 /* Pods-HimartCameraiOSSDK_Example-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = CAEB9B878FB90498AC48AE7CEA81D049 /* Pods-HimartCameraiOSSDK_Example-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		E1F8C718D8324B2C0179C9E24362ACC3 /* HimartCameraiOSSDK-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 4036DD23F03FC121C1621716C576CF51 /* HimartCameraiOSSDK-dummy.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -31,34 +31,34 @@
 
 /* Begin PBXFileReference section */
 		0853731D1F9D668F6573F3ED3600203C /* Pods-HimartCameraiOSSDK_Example-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-HimartCameraiOSSDK_Example-dummy.m"; sourceTree = "<group>"; };
-		304F30D536CC8747FBFAF110F7EE2D3B /* HimartCameraiOSSDK.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = "sourcecode.module-map"; path = HimartCameraiOSSDK.modulemap; sourceTree = "<group>"; };
+		304F30D536CC8747FBFAF110F7EE2D3B /* HimartCameraiOSSDK.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; path = HimartCameraiOSSDK.modulemap; sourceTree = "<group>"; };
 		32C448A2F404B1B047D8F4A0440C0B14 /* Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		338FC09920103753FAE54E132E590655 /* HimartCameraiOSSDK.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = HimartCameraiOSSDK.xcconfig; sourceTree = "<group>"; };
+		3438BAA899D27B08DF2ADCF6920947C9 /* Test.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; path = Test.swift; sourceTree = "<group>"; };
 		378691A81C62150AD2783D26EB3EB033 /* Pods-HimartCameraiOSSDK_Tests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-HimartCameraiOSSDK_Tests.release.xcconfig"; sourceTree = "<group>"; };
 		3B9699D130792983715444A73EC2E18A /* Pods-HimartCameraiOSSDK_Example-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-HimartCameraiOSSDK_Example-acknowledgements.markdown"; sourceTree = "<group>"; };
 		4036DD23F03FC121C1621716C576CF51 /* HimartCameraiOSSDK-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "HimartCameraiOSSDK-dummy.m"; sourceTree = "<group>"; };
 		4C94663026D2518BAD37D832626BBCE5 /* Pods-HimartCameraiOSSDK_Example.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-HimartCameraiOSSDK_Example.release.xcconfig"; sourceTree = "<group>"; };
-		58177C289D4FC5102947775E49D45B05 /* Pods_HimartCameraiOSSDK_Tests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_HimartCameraiOSSDK_Tests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		58177C289D4FC5102947775E49D45B05 /* Pods_HimartCameraiOSSDK_Tests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = Pods_HimartCameraiOSSDK_Tests.framework; path = "Pods-HimartCameraiOSSDK_Tests.framework"; sourceTree = BUILT_PRODUCTS_DIR; };
 		6C79422B2247939ABD37E11816157067 /* Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		717A3B6C5076A06286D3E1F955041BFF /* Pods-HimartCameraiOSSDK_Example-frameworks.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-HimartCameraiOSSDK_Example-frameworks.sh"; sourceTree = "<group>"; };
 		7D270820721838BAF1ABBFC644CE9D56 /* HimartCameraiOSSDK-prefix.pch */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "HimartCameraiOSSDK-prefix.pch"; sourceTree = "<group>"; };
 		7E89ED29964D0C2CF4388C0C9CF06EC9 /* Pods-HimartCameraiOSSDK_Tests-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-HimartCameraiOSSDK_Tests-acknowledgements.markdown"; sourceTree = "<group>"; };
-		8102118C94319D329F09892EDE30E7D8 /* Pods-HimartCameraiOSSDK_Example.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = "sourcecode.module-map"; path = "Pods-HimartCameraiOSSDK_Example.modulemap"; sourceTree = "<group>"; };
+		8102118C94319D329F09892EDE30E7D8 /* Pods-HimartCameraiOSSDK_Example.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; path = "Pods-HimartCameraiOSSDK_Example.modulemap"; sourceTree = "<group>"; };
 		83B56509D061BB903BADA6AE20AE8CB5 /* Pods-HimartCameraiOSSDK_Tests-frameworks.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-HimartCameraiOSSDK_Tests-frameworks.sh"; sourceTree = "<group>"; };
 		8A305D1F2A5143C045F6E55177969863 /* Pods-HimartCameraiOSSDK_Tests-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-HimartCameraiOSSDK_Tests-acknowledgements.plist"; sourceTree = "<group>"; };
 		91B4E8AC1D33686D07DD7C03A6E95423 /* Pods-HimartCameraiOSSDK_Example.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-HimartCameraiOSSDK_Example.debug.xcconfig"; sourceTree = "<group>"; };
-		93A4A3777CF96A4AAC1D13BA6DCCEA73 /* Podfile */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; name = Podfile; path = ../Podfile; sourceTree = SOURCE_ROOT; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
-		A041DB411E7F7F4F00679C20 /* Test.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Test.swift; sourceTree = "<group>"; };
+		93A4A3777CF96A4AAC1D13BA6DCCEA73 /* Podfile */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; lastKnownFileType = text; name = Podfile; path = ../Podfile; sourceTree = SOURCE_ROOT; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 		AE15D90FCB0F7FF04BC33DF373A02B4A /* Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		B2E31C0640D9BB4983ED194E6B3B9E65 /* HimartCameraiOSSDK-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "HimartCameraiOSSDK-umbrella.h"; sourceTree = "<group>"; };
-		B746BCEC0EA7612622F77BD293AE466A /* Pods_HimartCameraiOSSDK_Example.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_HimartCameraiOSSDK_Example.framework; sourceTree = BUILT_PRODUCTS_DIR; };
-		C79634D2BF6511CFE10858297B558938 /* Pods-HimartCameraiOSSDK_Tests.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = "sourcecode.module-map"; path = "Pods-HimartCameraiOSSDK_Tests.modulemap"; sourceTree = "<group>"; };
+		B746BCEC0EA7612622F77BD293AE466A /* Pods_HimartCameraiOSSDK_Example.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = Pods_HimartCameraiOSSDK_Example.framework; path = "Pods-HimartCameraiOSSDK_Example.framework"; sourceTree = BUILT_PRODUCTS_DIR; };
+		C79634D2BF6511CFE10858297B558938 /* Pods-HimartCameraiOSSDK_Tests.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; path = "Pods-HimartCameraiOSSDK_Tests.modulemap"; sourceTree = "<group>"; };
 		C7BA4CC7991FB9B532C4E319CB28F7C7 /* Pods-HimartCameraiOSSDK_Tests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-HimartCameraiOSSDK_Tests.debug.xcconfig"; sourceTree = "<group>"; };
 		CAEB9B878FB90498AC48AE7CEA81D049 /* Pods-HimartCameraiOSSDK_Example-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pods-HimartCameraiOSSDK_Example-umbrella.h"; sourceTree = "<group>"; };
 		CBB3DE36805AF21409EC968A9691732F /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS10.0.sdk/System/Library/Frameworks/Foundation.framework; sourceTree = DEVELOPER_DIR; };
 		D73CEF3FB49B14E912E456B69173A041 /* Pods-HimartCameraiOSSDK_Tests-resources.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-HimartCameraiOSSDK_Tests-resources.sh"; sourceTree = "<group>"; };
 		E76EDFB7C218C8E8B63F393BB4A8F401 /* Pods-HimartCameraiOSSDK_Example-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-HimartCameraiOSSDK_Example-acknowledgements.plist"; sourceTree = "<group>"; };
-		F33C2A78156E6F7E4C6AAB728D215160 /* HimartCameraiOSSDK.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = HimartCameraiOSSDK.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		F33C2A78156E6F7E4C6AAB728D215160 /* HimartCameraiOSSDK.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = HimartCameraiOSSDK.framework; path = HimartCameraiOSSDK.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		F403F6096311F0FEB91694AE2500F077 /* Pods-HimartCameraiOSSDK_Tests-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-HimartCameraiOSSDK_Tests-dummy.m"; sourceTree = "<group>"; };
 		FAA3BE35598C6DCC6A396860F8F60606 /* Pods-HimartCameraiOSSDK_Example-resources.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-HimartCameraiOSSDK_Example-resources.sh"; sourceTree = "<group>"; };
 		FDC5A49A45858B0CB9BA6C29F09B48CD /* Pods-HimartCameraiOSSDK_Tests-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pods-HimartCameraiOSSDK_Tests-umbrella.h"; sourceTree = "<group>"; };
@@ -131,8 +131,9 @@
 		4DC4352D4ADD7612352831998025397F /* HimartCameraiOSSDK */ = {
 			isa = PBXGroup;
 			children = (
-				58DDE689B17DE98D9305C109DED6661A /* Classes */,
+				A85972E8290F20506729FD011AC12B67 /* Classes */,
 			);
+			name = HimartCameraiOSSDK;
 			path = HimartCameraiOSSDK;
 			sourceTree = "<group>";
 		};
@@ -142,14 +143,6 @@
 				769B99A2C8CF21EE019BD857C8FF29AA /* HimartCameraiOSSDK */,
 			);
 			name = "Development Pods";
-			sourceTree = "<group>";
-		};
-		58DDE689B17DE98D9305C109DED6661A /* Classes */ = {
-			isa = PBXGroup;
-			children = (
-				A041DB411E7F7F4F00679C20 /* Test.swift */,
-			);
-			path = Classes;
 			sourceTree = "<group>";
 		};
 		7531C8F8DE19F1AA3C8A7AC97A91DC29 /* iOS */ = {
@@ -179,6 +172,15 @@
 				E2E0BA2C92CEFE4E98F1AC3DADC75B20 /* Products */,
 				D7E896444868FF42F050C19B943759BD /* Targets Support Files */,
 			);
+			sourceTree = "<group>";
+		};
+		A85972E8290F20506729FD011AC12B67 /* Classes */ = {
+			isa = PBXGroup;
+			children = (
+				3438BAA899D27B08DF2ADCF6920947C9 /* Test.swift */,
+			);
+			name = Classes;
+			path = Classes;
 			sourceTree = "<group>";
 		};
 		BC3CA7F9E30CC8F7E2DD044DD34432FC /* Frameworks */ = {
@@ -274,7 +276,7 @@
 			isa = PBXNativeTarget;
 			buildConfigurationList = BD6BEEFFD36536A831280077CDC74633 /* Build configuration list for PBXNativeTarget "HimartCameraiOSSDK" */;
 			buildPhases = (
-				E85585FC56C4EBA4F6868FD8FFECFFB4 /* Sources */,
+				594F73B85E459CF5A2F547D316A3CDBA /* Sources */,
 				970CCC40E7FE4895B6BFBAE2BE7FC1F8 /* Frameworks */,
 				A5A9804306E2F628919C1BA798E634C8 /* Headers */,
 			);
@@ -312,11 +314,6 @@
 			attributes = {
 				LastSwiftUpdateCheck = 0730;
 				LastUpgradeCheck = 0700;
-				TargetAttributes = {
-					4E46187FF6A31BEC885A8AE01DB94977 = {
-						LastSwiftMigration = 0820;
-					};
-				};
 			};
 			buildConfigurationList = 2D8E8EC45A3A1A1D94AE762CB5028504 /* Build configuration list for PBXProject "Pods" */;
 			compatibilityVersion = "Xcode 3.2";
@@ -346,20 +343,20 @@
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
+		594F73B85E459CF5A2F547D316A3CDBA /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				746424A0D2D2947617EFA6A73849DB9B /* HimartCameraiOSSDK-dummy.m in Sources */,
+				8A1E62055CAE6D19C54E2068C1A9B06F /* Test.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
 		759E213BFFA063D8C5E52625B1D3BF4C /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 				0C14C61B099F596BA4C496E9E0E77962 /* Pods-HimartCameraiOSSDK_Tests-dummy.m in Sources */,
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-		};
-		E85585FC56C4EBA4F6868FD8FFECFFB4 /* Sources */ = {
-			isa = PBXSourcesBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-				E1F8C718D8324B2C0179C9E24362ACC3 /* HimartCameraiOSSDK-dummy.m in Sources */,
-				A041DB421E7F7F4F00679C20 /* Test.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -449,7 +446,6 @@
 			isa = XCBuildConfiguration;
 			baseConfigurationReference = 338FC09920103753FAE54E132E590655 /* HimartCameraiOSSDK.xcconfig */;
 			buildSettings = {
-				CLANG_ENABLE_MODULES = YES;
 				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
 				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
@@ -637,7 +633,6 @@
 			isa = XCBuildConfiguration;
 			baseConfigurationReference = 338FC09920103753FAE54E132E590655 /* HimartCameraiOSSDK.xcconfig */;
 			buildSettings = {
-				CLANG_ENABLE_MODULES = YES;
 				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
 				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
